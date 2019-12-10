@@ -1,6 +1,3 @@
-# Erika Yunuen Flores Monroy 
-# No de Control: 15460113
-
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
